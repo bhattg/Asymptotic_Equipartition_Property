@@ -1,0 +1,18 @@
+Follow the instructions given below
+
+1. Write a code to generate a binary random variable with PMF {p, 1-p}
+here p is prob of 1 with p being your input
+
+2. Generate a large number of samples independently from the above
+distribution and store the sequence
+
+3. Repeat the above procedure, and collect the sequences. Obtain the
+Histogram of the distribution of the sequences after collecting a large
+number of sequences.
+
+4. As you vary the value of p, observe any structure in the family of
+sequences you have generated.
+
+5. Choose a value of \epsilon to define your own typical set. As you
+increase the value of n, observe the fraction of the sequences that lie
+in the typical set.
